@@ -164,12 +164,15 @@ article:nth-child(2) li {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 14px;
   text-align: center;
   margin: 10px;
 }
 .attribution a {
-  color: hsl(228deg, 45%, 44%);
+  color: var(--clr-p-1);
+}
+.attribution a:hover {
+  color: var(--clr-s-2);
 }
 
 :root {
