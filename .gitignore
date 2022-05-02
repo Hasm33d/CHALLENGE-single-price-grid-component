@@ -1,0 +1,12 @@
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+*.sketch
+*.xd
+*.fig
+.DS_Store
+
+
+brief/
+public/scss/
